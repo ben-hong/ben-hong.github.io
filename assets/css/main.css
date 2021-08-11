@@ -1810,7 +1810,7 @@ input, select, textarea {
 					background-color: #444;
 					border-radius: 6px;
 					box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
-					color: #2E2E2E !important;
+					color: #ffffff;
 					display: block;
 					font-size: 26px;
 					height: 48px;
@@ -1836,6 +1836,10 @@ input, select, textarea {
 
 				ul.social li a.fa-linkedin-in {
 					background-color: #006599;
+				}
+
+				ul.social li a.fa-angellist {
+					background-color: #2DAAE4;
 				}
 
 				ul.social li a.fa-tumblr {
@@ -2012,7 +2016,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color: #3c86e7;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
