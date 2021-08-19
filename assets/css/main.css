@@ -208,6 +208,10 @@ input, select, textarea {
 		margin: 0 0 3em 0;
 	}
 
+	.name {
+		margin: 0;
+	}
+
 		header > p {
 			font-size: 1.25em;
 			margin: 0;
@@ -288,7 +292,8 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
+		align-items: center;
+		justify-content: center;
 	}
 
 		.row > * {
