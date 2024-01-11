@@ -2127,7 +2127,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 2.5em 0 5em 0;
 		text-align: left;
 	}
 
@@ -2233,7 +2233,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 8em 0;
+				padding: 2em 0;
 			}
 
 				#top .image {
@@ -2325,7 +2325,7 @@ input, select, textarea {
 			.button {
 				text-align: center;
 				font-size: 1.2em;
-				width: 100%;
+				width: 8em;
 				padding: 1em 0 1em 0;
 			}
 
@@ -2351,10 +2351,6 @@ input, select, textarea {
 					ul.social li a {
 						top: 0 !important;
 					}
-
-						ul.social li a:before {
-							background-color: transparent !important;
-						}
 
 		/* Actions */
 
